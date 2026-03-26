@@ -62,7 +62,7 @@ public class InterfaceDemo3 {
                 case 3:
                     System.out.println("Exiting...");
                     s.close();
-                    return;  // Clean exit from main
+                    return;  
                 default:
                     System.out.println("Invalid option. Please try again.");
                     break;
